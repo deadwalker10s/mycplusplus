@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584423913 source:c:\users\hp\desktop\new folder\c++projects\simulationof_loader\untitled2.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1584427988 source:c:\users\hp\desktop\new folder\c++projects\simulationof_loader\main.cpp
+	<bits/stdc++.h>
+
